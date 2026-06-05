@@ -1,0 +1,6 @@
+{
+  "name": "arcsendo",
+  "description": "An exact, fully functional visual clone of arcsendo.xyz featuring interactive Discord profile integrations, background music, hovering soundtrack cards, holographic effects, and interactive commands terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
